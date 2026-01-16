@@ -28,23 +28,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Regex.executor": "Run",
-    "JUnit.CalculatorTest.executor": "Run",
-    "JUnit.CalculatorTest.testAdd.executor": "Run",
-    "JUnit.CalculatorTest.testAdd1.executor": "Run",
-    "JUnit.CalculatorTest.testAdd2.executor": "Run",
-    "JUnit.CalculatorTest.testDivide.executor": "Run",
-    "JUnit.CalculatorTest.testDivideByZero.executor": "Run",
-    "JUnit.FactorialCalculatorTest.factorialTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Regex",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Tazo/JAVA/Winter-homework"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Regex.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testAdd.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testAdd1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testAdd2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testDivide.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testDivideByZero.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FactorialCalculatorTest.factorialTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Regex&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Tazo/JAVA/Winter-homework&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -101,6 +101,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Winter-homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Winter-homework" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FactorialCalculatorTest.factorialTest" />
@@ -121,5 +132,8 @@
       <updated>1768591576424</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
