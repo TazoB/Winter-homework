@@ -30,6 +30,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Regex.executor": "Run",
     "JUnit.CalculatorTest.executor": "Run",
     "JUnit.CalculatorTest.testAdd.executor": "Run",
     "JUnit.CalculatorTest.testAdd1.executor": "Run",
